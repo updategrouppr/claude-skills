@@ -1,0 +1,8 @@
+{
+  "name": "update-video",
+  "description": "Update Group video kit: Remotion, HyperFrames and /brag skills, plus a workflow skill that sets up whisper.cpp, FFmpeg, yt-dlp and gifsicle for edited videos, captions, motion graphics and animated email signatures.",
+  "version": "1.0.0",
+  "author": { "name": "Update Group" },
+  "homepage": "https://www.updategrouppr.com",
+  "keywords": ["video", "remotion", "hyperframes", "captions", "motion-graphics", "gif"]
+}

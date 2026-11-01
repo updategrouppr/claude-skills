@@ -30,6 +30,13 @@
       "description": "Focused product management skills across the lifecycle: discovery, roadmaps and OKRs, PRDs, stakeholder communication, launch and beta programs, and measurement.",
       "category": "productivity",
       "keywords": ["agent-skills", "product-management", "roadmap", "okr"]
+    },
+    {
+      "name": "update-video",
+      "source": "./.claude",
+      "description": "Video kit: Remotion, HyperFrames and /brag skills plus a workflow skill for captions (whisper.cpp), motion graphics, reels and animated email signatures.",
+      "category": "productivity",
+      "keywords": ["video", "remotion", "hyperframes", "captions", "gif"]
     }
   ]
 }
